@@ -37,29 +37,29 @@ All of my work can be viewed at my GitHub profile: [CaldwellDerek](https://githu
 
 ## Media
 ---
-Starting Page
+Starting Page\
 ![Start](./assets/images/home.jpg)
 
 ---
-First Prompt
+First Prompt\
 ![First-Prompt](./assets/images/first-prompt.jpg)
 
 ---
-Second Prompt
+Second Prompt\
 ![Second-Prompt](./assets/images/second-prompt.jpg)
 
 ---
-Third Prompt
+Third Prompt\
 ![Third-Prompt](./assets/images/third-prompt.jpg)
 
 ---
-Fourth Prompt 
+Fourth Prompt\
 ![Fourth-Prompt](./assets/images/fourth-prompt.jpg)
 
 ---
-Fifth Prompt
+Fifth Prompt\
 ![Fifth-Prompt](./assets/images/fifth-prompt.jpg)
 
 ---
-Resulting Page
+Resulting Page\
 ![Result](./assets/images/result.jpg)
